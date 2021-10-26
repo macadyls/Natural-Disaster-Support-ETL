@@ -15,6 +15,3 @@ Google Places API (Country) https://developers.google.com/maps/documentation/pla
 Australian Climate Data http://www.bom.gov.au/climate/outlooks/#/overview/summary
 
 Method: Pandas Dataframe through Python into PostgreSQL Databases (Relational-Database)
-
-franco is here
-and again
