@@ -1,139 +1,139 @@
-YEAR,COUNTRY,CAUSE OF TSUNAMI
-2010,SOLOMON ISLANDS,Earthquake
-2010,SOLOMON ISLANDS,Earthquake
-2010,SOLOMON ISLANDS,Earthquake
-2010,HAITI,Earthquake and Landslide
-2010,CHILE,Earthquake
-2010,INDONESIA,Earthquake
-2010,CHILE,Earthquake
-2010,JAPAN,Earthquake
-2010,PERU,Landslide
-2010,USA TERRITORY,Volcano
-2010,INDIA,Earthquake
-2010,VANUATU,Earthquake
-2010,USA TERRITORY,Earthquake
-2010,INDONESIA,Earthquake
-2010,JAPAN,Earthquake
-2010,VANUATU,Earthquake
-2011,NEW ZEALAND,Earthquake and Landslide
-2011,CHILE,Earthquake
-2011,JAPAN,Earthquake
-2011,JAPAN,Earthquake
-2011,VANUATU,Earthquake
-2011,JAPAN,Earthquake
-2011,USA,Earthquake
-2011,NEW ZEALAND,Earthquake
-2011,UK,Meteorological
-2011,NORWAY,Landslide
-2011,JAPAN,Earthquake
-2011,NORWAY,Landslide
-2011,VANUATU,Earthquake
-2011,VANUATU,Earthquake
-2011,USA,Earthquake
-2011,NEW ZEALAND,Earthquake
-2012,MEXICO,Earthquake
-2012,JAPAN,Earthquake
-2012,INDONESIA,Earthquake
-2012,INDONESIA,Earthquake
-2012,VANUATU,Earthquake
-2010,COOK ISLANDS,Unknown
-2012,VANUATU,Earthquake
-2012,EL SALVADOR,Earthquake
-2012,PHILIPPINES,Earthquake
-2012,COSTA RICA,Earthquake
-2012,GREENLAND,Landslide
-2012,GUATEMALA,Earthquake
-2012,CHINA,Landslide
-2012,JAPAN,Earthquake
-2012,CANADA,Earthquake
-2013,USA,Earthquake
-2013,SOLOMON ISLANDS,Earthquake
-2013,SOLOMON ISLANDS,Earthquake
-2013,RUSSIA,Earthquake
-2013,NEW ZEALAND,Earthquake
-2013,NEW ZEALAND,Earthquake
-2013,PAKISTAN,Earthquake and Landslide
-2013,JAPAN,Earthquake
-2013,ANTARCTICA,Earthquake
-2014,CHILE,Earthquake
-2014,PAPUA NEW GUINEA,Earthquake
-2014,SOLOMON ISLANDS,Earthquake
-2014,MEXICO,Earthquake
-2014,CHILE,Earthquake
-2014,SOLOMON ISLANDS,Earthquake
-2014,CHILE,Earthquake
-2014,USA,Earthquake
-2014,NEW ZEALAND,Earthquake
-2014,JAPAN,Earthquake
-2014,USA,Earthquake
-2014,CHILE,Earthquake
-2014,INDONESIA,Earthquake
-2015,JAPAN,Earthquake
-2015,PAPUA NEW GUINEA,Earthquake
-2015,VANUATU,Earthquake
-2015,JAPAN,Earthquake
-2015,PAPUA NEW GUINEA,Earthquake
-2015,SOLOMON ISLANDS,Earthquake
-2015,SOLOMON ISLANDS,Earthquake
-2015,USA,Earthquake
-2015,CHILE,Earthquake
-2015,USA,Landslide
-2015,JAPAN,Earthquake
-2015,GREECE,Earthquake and Landslide
-2015,CHILE,Earthquake
-2016,INDONESIA,Earthquake
-2016,ECUADOR,Earthquake
-2016,VANUATU,Earthquake
-2016,UK TERRITORY,Earthquake
-2016,NEW CALEDONIA,Earthquake
-2014,EL SALVADOR,Earthquake
-2016,NEW ZEALAND,Earthquake
-2016,NEW ZEALAND,Earthquake
-2016,NICARAGUA,Earthquake
-2016,PAPUA NEW GUINEA,Earthquake
-2016,SOLOMON ISLANDS,Earthquake
-2016,SOLOMON ISLANDS,Earthquake
-2016,JAPAN,Earthquake
-2017,PAPUA NEW GUINEA,Earthquake
-2016,CHILE,Earthquake
-2017,FIJI,Earthquake
-2017,IRAN,Meteorological
-2017,PHILIPPINES,Earthquake
-2017,USA,Earthquake
-2017,CHILE,Earthquake
-2017,GREENLAND,Landslide
-2017,RUSSIA,Earthquake
-2017,TURKEY,Earthquake
-2017,COLOMBIA,Landslide
-2017,GREECE,Earthquake
-2017,NEW CALEDONIA,Earthquake
-2017,NEW CALEDONIA,Earthquake
-2017,MEXICO,Earthquake
-2018,HONDURAS,Earthquake
-2018,USA,Earthquake
-2017,NEW CALEDONIA,Earthquake
-2017,KERMADEC ISLANDS,Unknown
-2018,PAPUA NEW GUINEA,Volcano
-2015,NORWAY,Landslide
-2018,PERU,Earthquake
-2018,USA,Volcano and Earthquake
-2018,INDONESIA,Earthquake
-2014,UKRAINE,Landslide
-2018,GREECE,Earthquake
-2018,FIJI,Earthquake
-2018,VENEZUELA,Earthquake
-2018,NEW CALEDONIA,Earthquake
-2018,INDONESIA,Earthquake and Landslide
-2018,NEW CALEDONIA,Earthquake
-2018,INDONESIA,Volcano and Landslide
-2015,CHINA,Landslide
-2012,VANUATU,Earthquake
-2011,NEW CALEDONIA,Earthquake
-2015,SOLOMON ISLANDS,Earthquake
-2017,NEW CALEDONIA,Earthquake
-2017,NEW CALEDONIA,Earthquake
-2018,NEW CALEDONIA,Earthquake
-2018,RUSSIA,Landslide
-2014,ICELAND,Landslide
-2016,JAPAN,Earthquake
-2013,MEXICO,Earthquake
+Year,Country_Name,Cause,Total_Deaths
+2010,Solomon Islands,Earthquake,
+2010,Solomon Islands,Earthquake,
+2010,Solomon Islands,Earthquake,
+2010,Haiti,Earthquake and Landslide,Very Many (~1001 or more people)
+2010,Chile,Earthquake,Many (~101 to 1000 people)
+2010,Indonesia,Earthquake,
+2010,Chile,Earthquake,
+2010,Japan,Earthquake,
+2010,Peru,Landslide,Few (~1 to 50 people)
+2010,Usa Territory,Volcano,
+2010,India,Earthquake,
+2010,Vanuatu,Earthquake,
+2010,Usa Territory,Earthquake,
+2010,Indonesia,Earthquake,Many (~101 to 1000 people)
+2010,Japan,Earthquake,
+2010,Vanuatu,Earthquake,
+2011,New Zealand,Earthquake and Landslide,
+2011,Chile,Earthquake,
+2011,Japan,Earthquake,
+2011,Japan,Earthquake,Very Many (~1001 or more people)
+2011,Vanuatu,Earthquake,
+2011,Japan,Earthquake,
+2011,Usa,Earthquake,
+2011,New Zealand,Earthquake,
+2011,Uk,Meteorological,
+2011,Norway,Landslide,
+2011,Japan,Earthquake,Few (~1 to 50 people)
+2011,Norway,Landslide,
+2011,Vanuatu,Earthquake,
+2011,Vanuatu,Earthquake,
+2011,Usa,Earthquake,
+2011,New Zealand,Earthquake,
+2012,Mexico,Earthquake,Few (~1 to 50 people)
+2012,Japan,Earthquake,
+2012,Indonesia,Earthquake,Few (~1 to 50 people)
+2012,Indonesia,Earthquake,
+2012,Vanuatu,Earthquake,
+2010,Cook Islands,Unknown,
+2012,Vanuatu,Earthquake,
+2012,El Salvador,Earthquake,
+2012,Philippines,Earthquake,Few (~1 to 50 people)
+2012,Costa Rica,Earthquake,Few (~1 to 50 people)
+2012,Greenland,Landslide,
+2012,Guatemala,Earthquake,Some (~51 to 100 people)
+2012,China,Landslide,
+2012,Japan,Earthquake,
+2012,Canada,Earthquake,Few (~1 to 50 people)
+2013,Usa,Earthquake,
+2013,Solomon Islands,Earthquake,
+2013,Solomon Islands,Earthquake,Few (~1 to 50 people)
+2013,Russia,Earthquake,
+2013,New Zealand,Earthquake,
+2013,New Zealand,Earthquake,
+2013,Pakistan,Earthquake and Landslide,Many (~101 to 1000 people)
+2013,Japan,Earthquake,
+2013,Antarctica,Earthquake,
+2014,Chile,Earthquake,
+2014,Papua New Guinea,Earthquake,
+2014,Solomon Islands,Earthquake,
+2014,Mexico,Earthquake,
+2014,Chile,Earthquake,
+2014,Solomon Islands,Earthquake,
+2014,Chile,Earthquake,Few (~1 to 50 people)
+2014,Usa,Earthquake,
+2014,New Zealand,Earthquake,
+2014,Japan,Earthquake,
+2014,Usa,Earthquake,
+2014,Chile,Earthquake,
+2014,Indonesia,Earthquake,
+2015,Japan,Earthquake,
+2015,Papua New Guinea,Earthquake,
+2015,Vanuatu,Earthquake,
+2015,Japan,Earthquake,
+2015,Papua New Guinea,Earthquake,
+2015,Solomon Islands,Earthquake,
+2015,Solomon Islands,Earthquake,
+2015,Usa,Earthquake,
+2015,Chile,Earthquake,Few (~1 to 50 people)
+2015,Usa,Landslide,
+2015,Japan,Earthquake,
+2015,Greece,Earthquake and Landslide,Few (~1 to 50 people)
+2015,Chile,Earthquake,
+2016,Indonesia,Earthquake,
+2016,Ecuador,Earthquake,Many (~101 to 1000 people)
+2016,Vanuatu,Earthquake,
+2016,Uk Territory,Earthquake,
+2016,New Caledonia,Earthquake,
+2014,El Salvador,Earthquake,Few (~1 to 50 people)
+2016,New Zealand,Earthquake,Few (~1 to 50 people)
+2016,New Zealand,Earthquake,
+2016,Nicaragua,Earthquake,
+2016,Papua New Guinea,Earthquake,
+2016,Solomon Islands,Earthquake,Few (~1 to 50 people)
+2016,Solomon Islands,Earthquake,
+2016,Japan,Earthquake,
+2017,Papua New Guinea,Earthquake,Few (~1 to 50 people)
+2016,Chile,Earthquake,
+2017,Fiji,Earthquake,
+2017,Iran,Meteorological,Few (~1 to 50 people)
+2017,Philippines,Earthquake,
+2017,Usa,Earthquake,
+2017,Chile,Earthquake,
+2017,Greenland,Landslide,Few (~1 to 50 people)
+2017,Russia,Earthquake,
+2017,Turkey,Earthquake,Few (~1 to 50 people)
+2017,Colombia,Landslide,
+2017,Greece,Earthquake,Few (~1 to 50 people)
+2017,New Caledonia,Earthquake,
+2017,New Caledonia,Earthquake,
+2017,Mexico,Earthquake,Some (~51 to 100 people)
+2018,Honduras,Earthquake,
+2018,Usa,Earthquake,
+2017,New Caledonia,Earthquake,
+2017,Kermadec Islands,Unknown,
+2018,Papua New Guinea,Volcano,
+2015,Norway,Landslide,
+2018,Peru,Earthquake,
+2018,Usa,Volcano and Earthquake,
+2018,Indonesia,Earthquake,Many (~101 to 1000 people)
+2014,Ukraine,Landslide,
+2018,Greece,Earthquake,
+2018,Fiji,Earthquake,
+2018,Venezuela,Earthquake,Few (~1 to 50 people)
+2018,New Caledonia,Earthquake,
+2018,Indonesia,Earthquake and Landslide,Very Many (~1001 or more people)
+2018,New Caledonia,Earthquake,
+2018,Indonesia,Volcano and Landslide,Many (~101 to 1000 people)
+2015,China,Landslide,Few (~1 to 50 people)
+2012,Vanuatu,Earthquake,
+2011,New Caledonia,Earthquake,
+2015,Solomon Islands,Earthquake,
+2017,New Caledonia,Earthquake,
+2017,New Caledonia,Earthquake,
+2018,New Caledonia,Earthquake,
+2018,Russia,Landslide,
+2014,Iceland,Landslide,
+2016,Japan,Earthquake,
+2013,Mexico,Earthquake,
