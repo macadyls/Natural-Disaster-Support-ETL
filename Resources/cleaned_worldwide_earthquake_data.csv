@@ -4,17 +4,17 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2010,7.1,Solomon Islands,,,
 2010,6.8,Solomon Islands,,,
 2010,,Indonesia,1.0,,2.0
-2010,6.5,Usa,,,30.0
+2010,6.5,United States of America,,,30.0
 2010,7.0,Haiti,316000.0,,300000.0
-2010,5.5,Venezuela,,,11.0
-2010,,Iran,,,
+2010,5.5,Venezuela (Bolivarian Republic of),,,11.0
+2010,,Iran (Islamic Republic of),,,
 2010,,China,7.0,1.0,9.0
 2010,,China,1.0,,15.0
 2010,,China,,,11.0
 2010,7.0,Japan,,,2.0
 2010,8.8,Chile,558.0,,12000.0
 2010,,Argentina,2.0,,2.0
-2010,6.3,Taiwan,,,96.0
+2010,6.3,China,,,96.0
 2010,6.1,Turkey,51.0,,100.0
 2010,6.9,Chile,,,
 2010,6.7,India,,,10.0
@@ -27,47 +27,47 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2010,6.2,Peru,,,11.0
 2010,7.2,Indonesia,,,
 2010,,Algeria,2.0,,43.0
-2010,5.8,Usa Territory,,,
-2010,,Usa Territory,,,
+2010,5.8,United States of America,,,
+2010,,United States of America,,,
 2010,7.5,India,,,
-2010,5.8,Usa,,,
+2010,5.8,United States of America,,,
 2010,7.0,Indonesia,17.0,,
 2010,5.9,India,,,
 2010,,India,,,
 2010,5.2,Canada,,,
 2010,6.2,Mexico,1.0,,
-2010,5.8,Iran,1.0,,32.0
+2010,5.8,Iran (Islamic Republic of),1.0,,32.0
 2010,7.6,Philippines,,,
-2010,5.4,Iran,,,274.0
+2010,5.4,Iran (Islamic Republic of),,,274.0
 2010,7.2,Vanuatu,,,
 2010,7.1,Ecuador,,,
-2010,6.9,Usa Territory,,,
-2010,5.7,Iran,3.0,,200.0
+2010,6.9,United States of America,,,
+2010,5.7,Iran (Islamic Republic of),3.0,,200.0
 2010,,China,,,14.0
 2010,7.0,New Zealand,,,2.0
 2010,,New Zealand,,,
 2010,,New Zealand,,,
 2010,,New Zealand,,,
 2010,,Bangladesh,,,
-2010,5.8,Iran,1.0,,3.0
+2010,5.8,Iran (Islamic Republic of),1.0,,3.0
 2010,,Pakistan,1.0,,15.0
 2010,7.8,Indonesia,431.0,,
 2010,5.5,Serbia,2.0,,100.0
-2010,,Iran,,,104.0
+2010,,Iran (Islamic Republic of),,,104.0
 2010,,Pakistan,,,12.0
 2010,,Ethiopia,,,
-2010,,Usa,,,
-2010,6.5,Iran,7.0,,25.0
+2010,,United States of America,,,
+2010,6.5,Iran (Islamic Republic of),7.0,,25.0
 2010,7.4,Japan,,,
 2010,7.3,Vanuatu,,,4.0
 2010,,New Zealand,,,
-2011,,Iran,,,16.0
+2011,,Iran (Islamic Republic of),,,16.0
 2011,6.5,Vanuatu,,,
 2011,7.2,Pakistan,3.0,,
 2011,,China,,,1.0
-2011,6.3,Myanmar (Burma),1.0,,
+2011,6.3,Myanmar,1.0,,
 2011,6.8,Chile,,,
-2011,,Usa,,,
+2011,,United States of America,,,
 2011,6.1,New Zealand,181.0,,1500.0
 2011,5.5,Philippines,,,
 2011,7.5,Japan,,,
@@ -75,7 +75,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2011,9.1,Japan,18431.0,,6157.0
 2011,7.9,Japan,,,
 2011,7.6,Japan,,,
-2011,6.8,Myanmar (Burma),75.0,,123.0
+2011,6.8,Myanmar,75.0,,123.0
 2011,5.4,Nepal,,,
 2011,7.1,Japan,3.0,,132.0
 2011,,China,,,
@@ -87,32 +87,32 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2011,,China,,,8.0
 2011,6.0,New Zealand,1.0,,45.0
 2011,,China,,,4.0
-2011,7.3,Usa,,,
+2011,7.3,United States of America,,,
 2011,,China,,,
-2011,7.6,Kermadec Islands (New Zealand),,,
+2011,7.6,New Zealand,,,
 2011,7.0,Japan,,,
 2011,6.1,Uzbekistan,14.0,,86.0
 2011,,China,,,3.0
 2011,5.7,China,,,21.0
 2011,7.1,Vanuatu,,,
 2011,7.0,Vanuatu,,,
-2011,5.4,Usa,,,
-2011,5.8,Usa,,,
-2011,6.8,Usa,,,
+2011,5.4,United States of America,,,
+2011,5.8,United States of America,,,
+2011,6.8,United States of America,,,
 2011,6.7,Indonesia,10.0,,
 2011,,India,,,1.0
 2011,6.9,India,111.0,,177.0
 2011,5.6,Guatemala,1.0,,
 2011,,India,,,34.0
-2011,7.4,Kermadec Islands (New Zealand),,,
+2011,7.4,New Zealand,,,
 2011,7.1,Turkey,604.0,,2608.0
 2011,6.9,Peru,1.0,,103.0
 2011,,India,2.0,,
 2011,,Ecuador,,,
 2011,5.6,China,,,
-2011,5.7,Usa,,,2.0
+2011,5.7,United States of America,,,2.0
 2011,5.0,Philippines,,,31.0
-2011,5.0,Usa,,,
+2011,5.0,United States of America,,,
 2011,5.7,Turkey,40.0,,
 2011,5.8,India,,,
 2011,,El Salvador,,,
@@ -120,13 +120,13 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2011,,New Zealand,,,
 2011,6.4,Mexico,2.0,,5.0
 2011,5.8,New Zealand,,,60.0
-2011,6.7,Russia,,,
-2012,5.3,Iran,,,238.0
+2011,6.7,Russian Federation,,,
+2012,5.3,Iran (Islamic Republic of),,,238.0
 2012,6.4,Peru,,,119.0
 2012,7.0,Vanuatu,,,
 2012,6.7,Philippines,51.0,62.0,112.0
-2012,5.9,Taiwan,,,
-2012,,Iran,,,6.0
+2012,5.9,China,,,
+2012,,Iran (Islamic Republic of),,,6.0
 2012,5.6,Philippines,,,10.0
 2012,6.7,Vanuatu,,,
 2012,6.9,Japan,,,
@@ -137,7 +137,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2012,8.2,Indonesia,,,
 2012,6.3,Vanuatu,,,
 2012,6.7,Chile,2.0,,
-2012,5.4,Iran,,,8.0
+2012,5.4,Iran (Islamic Republic of),,,8.0
 2012,5.7,Azerbaijan,,,50.0
 2012,5.4,India,,,2.0
 2012,5.7,Tajikistan,1.0,,
@@ -156,8 +156,8 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2012,,China,1.0,,2.0
 2012,6.5,Indonesia,1.0,,
 2012,6.4,Solomon Islands,,,
-2012,6.5,Iran,306.0,,3000.0
-2012,7.7,Russia,,,
+2012,6.5,Iran (Islamic Republic of),306.0,,3000.0
+2012,7.7,Russian Federation,,,
 2012,6.3,Indonesia,6.0,,43.0
 2012,7.3,Nicaragua,,,
 2012,7.6,Philippines,1.0,,1.0
@@ -166,37 +166,37 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2012,,India,,,
 2012,7.7,Canada,1.0,,
 2012,7.3,Guatemala,48.0,,155.0
-2012,6.8,Myanmar (Burma),26.0,,230.0
+2012,6.8,Myanmar,26.0,,230.0
 2012,5.1,China,,,
-2012,5.7,Iran,8.0,,12.0
+2012,5.7,Iran (Islamic Republic of),8.0,,12.0
 2012,7.2,Japan,,,11.0
-2013,7.5,Usa,,,
+2013,7.5,United States of America,,,
 2013,6.1,Indonesia,1.0,,15.0
 2013,7.9,Solomon Islands,10.0,,15.0
 2013,7.0,Solomon Islands,,,
 2013,7.0,Colombia,,,15.0
-2013,,Russia,,,1000.0
+2013,,Russian Federation,,,1000.0
 2013,4.9,China,,,8.0
 2013,,Peru,,,
 2013,5.4,China,,,30.0
 2013,,China,,,
-2013,6.0,Taiwan,1.0,,86.0
-2013,6.3,Iran,37.0,,850.0
+2013,6.0,China,1.0,,86.0
+2013,6.3,Iran (Islamic Republic of),37.0,,850.0
 2013,5.4,Honduras,,,
 2013,5.8,Japan,,,24.0
-2013,7.7,Iran,40.0,,300.0
+2013,7.7,Iran (Islamic Republic of),40.0,,300.0
 2013,5.8,Japan,,,3.0
-2013,,Usa,14.0,,200.0
-2013,7.2,Russia,,,
+2013,,United States of America,14.0,,200.0
+2013,7.2,Russian Federation,,,
 2013,6.6,China,196.0,21.0,11470.0
 2013,5.5,Afghanistan,18.0,,141.0
 2013,5.7,India,3.0,,90.0
-2013,6.1,Iran,2.0,,20.0
+2013,6.1,Iran (Islamic Republic of),2.0,,20.0
 2013,,Algeria,,,5.0
-2013,8.3,Russia,,,
+2013,8.3,Russian Federation,,,
 2013,5.7,Philippines,,,33.0
-2013,6.3,Taiwan,4.0,,21.0
-2013,5.3,Russia,,,
+2013,6.3,China,4.0,,21.0
+2013,5.3,Russian Federation,,,
 2013,5.1,Indonesia,,,50.0
 2013,6.1,Indonesia,42.0,6.0,2500.0
 2013,5.7,Indonesia,,,1.0
@@ -221,21 +221,21 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2013,,Tajikistan,,,
 2013,7.7,Antarctica,,,
 2013,5.3,China,,,
-2013,5.7,Iran,8.0,,200.0
-2014,5.3,Iran,1.0,,30.0
+2013,5.7,Iran (Islamic Republic of),8.0,,200.0
+2014,5.3,Iran (Islamic Republic of),1.0,,30.0
 2014,5.6,Colombia,,,
-2014,6.4,Usa Territory,,,
+2014,6.4,United States of America,,,
 2014,6.1,New Zealand,,,
 2014,6.1,Indonesia,,,
 2014,6.1,Greece,,,6.0
-2014,,Iran,,,
+2014,,Iran (Islamic Republic of),,,
 2014,6.0,Greece,,,16.0
-2014,4.1,Usa,,,
+2014,4.1,United States of America,,,
 2014,6.9,China,,,
 2014,4.5,Australia,,,
 2014,6.3,Japan,,,18.0
 2014,6.7,Chile,,,
-2014,5.1,Usa,,,
+2014,5.1,United States of America,,,
 2014,8.2,Chile,7.0,,
 2014,7.7,Chile,,,
 2014,,China,,,21.0
@@ -254,19 +254,19 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2014,6.9,Greece,3.0,,266.0
 2014,5.9,China,,,45.0
 2014,6.9,New Zealand,,,
-2014,7.9,Usa,,,
+2014,7.9,United States of America,,,
 2014,6.9,Mexico,3.0,,33.0
 2014,6.5,Japan,,,3.0
-2014,3.9,Usa,,,
-2014,6.1,Usa,,,
+2014,3.9,United States of America,,,
+2014,6.1,United States of America,,,
 2014,6.3,Mexico,1.0,,1.0
 2014,5.5,Algeria,6.0,,420.0
 2014,6.2,China,615.0,114.0,3143.0
 2014,5.5,South Africa,1.0,,17.0
 2014,5.1,Ecuador,2.0,,8.0
 2014,5.0,China,,,6.0
-2014,6.2,Iran,,,330.0
-2014,6.1,Usa,1.0,,257.0
+2014,6.2,Iran (Islamic Republic of),,,330.0
+2014,6.1,United States of America,1.0,,257.0
 2014,,Philippines,,,1.0
 2014,5.1,Peru,8.0,,6.0
 2014,6.1,China,1.0,,323.0
@@ -281,7 +281,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,6.7,Japan,,,
 2015,6.4,Vanuatu,,,
 2015,,China,,,
-2015,,Bosnia-Herzegovina,4.0,,1.0
+2015,,Bosnia and Herzegovina,4.0,,1.0
 2015,,China,,,
 2015,,Pakistan,,,5.0
 2015,,Peru,,,
@@ -290,7 +290,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,6.2,Colombia,,,
 2015,,China,2.0,,13.0
 2015,7.5,Papua New Guinea,,,
-2015,6.4,Taiwan,1.0,,1.0
+2015,6.4,China,1.0,,1.0
 2015,7.8,Nepal,8200.0,366.0,17866.0
 2015,5.7,Japan,,,
 2015,7.5,Papua New Guinea,,,
@@ -303,7 +303,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,6.7,Solomon Islands,,,
 2015,7.0,Solomon Islands,,,
 2015,5.1,Pakistan,3.0,,1.0
-2015,6.9,Usa,,,
+2015,6.9,United States of America,,,
 2015,7.0,Indonesia,1.0,,
 2015,5.9,Panama,,,6.0
 2015,5.8,Rwanda,3.0,,30.0
@@ -313,13 +313,13 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,5.8,Argentina,2.0,,30.0
 2015,7.5,Afghanistan,399.0,,1770.0
 2015,6.5,Indonesia,,,
-2015,5.3,Venezuela,1.0,,
+2015,5.3,Venezuela (Bolivarian Republic of),1.0,,
 2015,6.9,Chile,,,
 2015,6.7,Japan,,,
 2015,6.5,Greece,2.0,,4.0
 2015,5.6,Kyrgyzstan,,,
 2015,6.8,Solomon Islands,,,
-2015,5.1,Venezuela,1.0,,3.0
+2015,5.1,Venezuela (Bolivarian Republic of),1.0,,3.0
 2015,7.6,Peru,,,
 2015,7.6,Peru,,,
 2015,7.2,Tajikistan,2.0,,
@@ -327,12 +327,12 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,6.3,Afghanistan,4.0,,97.0
 2016,6.7,India,13.0,,100.0
 2016,5.6,Indonesia,1.0,,22.0
-2016,7.1,Usa,,,
+2016,7.1,United States of America,,,
 2016,6.3,Morocco,1.0,,26.0
-2016,6.4,Taiwan,117.0,,525.0
+2016,6.4,China,117.0,,525.0
 2016,7.8,Indonesia,,,
 2016,6.6,Afghanistan,6.0,,5.0
-2016,6.9,Myanmar (Burma),2.0,,170.0
+2016,6.9,Myanmar,2.0,,170.0
 2016,7.0,Japan,50.0,,1500.0
 2016,7.8,Ecuador,663.0,9.0,6274.0
 2016,7.0,Vanuatu,,,
@@ -342,26 +342,26 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2016,6.6,Indonesia,1.0,,30.0
 2016,6.3,Indonesia,,,
 2016,5.0,Tajikistan,,,
-2016,7.7,Usa Territory,,,
+2016,7.7,United States of America,,,
 2016,,China,,,
 2016,5.6,Indonesia,,,4.0
 2016,7.2,New Caledonia,,,
 2016,5.5,Peru,9.0,,68.0
-2016,7.4,South Georgia And The South Sandwich Islands,,,
+2016,7.4,South Georgia and the South Sandwich Islands,,,
 2016,6.0,Japan,,,
 2016,6.2,Italy,299.0,15.0,368.0
-2016,6.8,Myanmar (Burma),4.0,,20.0
+2016,6.8,Myanmar,4.0,,20.0
 2016,7.0,New Zealand,,,
-2016,5.9,Tanzania,23.0,,252.0
-2016,5.1,Macedonia,,,30.0
-2016,5.4,South Korea,1.0,,14.0
+2016,5.9,United Republic of Tanzania,23.0,,252.0
+2016,5.1,North Macedonia,,,30.0
+2016,5.4,Republic of Korea,1.0,,14.0
 2016,,Rwanda,8.0,,
 2016,5.5,Nicaragua,1.0,,5.0
 2016,,Pakistan,1.0,,
 2016,6.2,Japan,,,7.0
 2016,6.1,Italy,1.0,,
 2016,6.6,Italy,2.0,,20.0
-2016,5.0,Usa,,,
+2016,5.0,United States of America,,,
 2016,7.8,New Zealand,2.0,,
 2016,6.9,Japan,,,15.0
 2016,6.9,Nicaragua,,,
@@ -379,7 +379,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2016,7.6,Chile,,,
 2017,5.7,India,3.0,,
 2017,6.9,Fiji,,,
-2017,5.0,Iran,4.0,,4.0
+2017,5.0,Iran (Islamic Republic of),4.0,,4.0
 2017,5.5,Madagascar,2.0,,
 2017,5.7,Italy,34.0,,11.0
 2017,7.9,Papua New Guinea,3.0,,
@@ -389,10 +389,10 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2017,6.5,Philippines,8.0,,202.0
 2017,5.9,Zambia,,,5.0
 2017,5.7,Philippines,1.0,,45.0
-2017,,Myanmar (Burma),2.0,,36.0
+2017,,Myanmar,2.0,,36.0
 2017,5.6,Indonesia,,,4.0
 2017,,China,,,1.0
-2017,6.1,Iran,2.0,,11.0
+2017,6.1,Iran (Islamic Republic of),2.0,,11.0
 2017,5.9,Philippines,,,6.0
 2017,,El Salvador,1.0,,3.0
 2017,6.9,Chile,,,
@@ -401,8 +401,8 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2017,6.0,Tajikistan,,,
 2017,5.4,China,8.0,,23.0
 2017,,Azerbaijan,,,20.0
-2017,5.6,Iran,3.0,,400.0
-2017,,Tanzania,1.0,,18.0
+2017,5.6,Iran (Islamic Republic of),3.0,,400.0
+2017,,United Republic of Tanzania,1.0,,18.0
 2017,4.9,Turkey,,,
 2017,6.6,Indonesia,,,25.0
 2017,6.3,Greece,1.0,,15.0
@@ -411,7 +411,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2017,6.8,Guatemala,,,4.0
 2017,5.6,Mozambique,,,4.0
 2017,6.5,Philippines,4.0,,448.0
-2017,7.7,Russia,,,
+2017,7.7,Russian Federation,,,
 2017,6.4,Peru,1.0,,1.0
 2017,6.6,Turkey,2.0,,500.0
 2017,5.4,Chile,1.0,,
@@ -428,45 +428,45 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2017,6.7,New Caledonia,,,
 2017,6.1,Indonesia,1.0,,
 2017,6.6,New Caledonia,,,
-2017,7.3,Iran,630.0,,12900.0
+2017,7.3,Iran (Islamic Republic of),630.0,,12900.0
 2017,6.5,Costa Rica,2.0,,
-2017,5.5,South Korea,,,90.0
+2017,5.5,Republic of Korea,,,90.0
 2017,6.4,China,,,2.0
 2017,5.8,Indonesia,1.0,,
 2017,6.3,New Caledonia,,,
 2017,6.6,New Caledonia,,,
 2017,7.0,New Caledonia,,,
 2017,,China,,,8.0
-2017,6.0,Iran,,,51.0
+2017,6.0,Iran (Islamic Republic of),,,51.0
 2017,6.5,Indonesia,4.0,,36.0
-2017,,Iran,2.0,,115.0
-2017,,Iran,1.0,,57.0
+2017,,Iran (Islamic Republic of),2.0,,115.0
+2017,,Iran (Islamic Republic of),1.0,,57.0
 2018,,Montenegro,,,
-2018,5.0,Iran,,,51.0
+2018,5.0,Iran (Islamic Republic of),,,51.0
 2018,,Netherlands,,,
 2018,7.5,Honduras,,,
-2018,5.5,Iran,,,13.0
+2018,5.5,Iran (Islamic Republic of),,,13.0
 2018,7.1,Peru,2.0,,139.0
 2018,6.0,Indonesia,1.0,,11.0
-2018,7.9,Usa,,,
+2018,7.9,United States of America,,,
 2018,6.1,Afghanistan,2.0,,15.0
 2018,,Ecuador,1.0,,
-2018,6.4,Taiwan,17.0,,291.0
+2018,6.4,China,17.0,,291.0
 2018,7.2,Mexico,13.0,,
 2018,7.5,Papua New Guinea,145.0,,300.0
 2018,6.1,Papua New Guinea,1.0,,
 2018,6.0,Papua New Guinea,11.0,,
 2018,6.7,Papua New Guinea,25.0,,
-2018,,Iran,,,54.0
-2018,,Venezuela,,,
+2018,,Iran (Islamic Republic of),,,54.0
+2018,,Venezuela (Bolivarian Republic of),,,
 2018,6.3,Papua New Guinea,4.0,,
 2018,5.6,Japan,,,8.0
 2018,4.7,Italy,,,
 2018,,Indonesia,3.0,,21.0
 2018,5.2,Turkey,,,39.0
-2018,5.3,Iran,,,133.0
+2018,5.3,Iran (Islamic Republic of),,,133.0
 2018,,South Africa,7.0,,6.0
-2018,6.9,Usa,,,1.0
+2018,6.9,United States of America,,,1.0
 2018,,Poland,5.0,,2.0
 2018,5.6,El Salvador,,,1.0
 2018,6.2,Afghanistan,,,13.0
@@ -476,7 +476,7 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2018,4.9,Colombia,2.0,,
 2018,5.5,Japan,5.0,,380.0
 2018,5.2,Indonesia,1.0,,2.0
-2018,,Iran,,,287.0
+2018,,Iran (Islamic Republic of),,,287.0
 2018,6.4,Indonesia,17.0,,355.0
 2018,6.9,Indonesia,560.0,,7733.0
 2018,5.9,Indonesia,2.0,,24.0
@@ -484,12 +484,12 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2018,8.2,Fiji,,,
 2018,6.3,Indonesia,2.0,,1.0
 2018,6.9,Indonesia,10.0,,24.0
-2018,7.3,Venezuela,5.0,,
-2018,6.0,Iran,2.0,,267.0
+2018,7.3,Venezuela (Bolivarian Republic of),5.0,,
+2018,6.0,Iran (Islamic Republic of),2.0,,267.0
 2018,7.1,New Caledonia,,,
 2018,6.6,Japan,44.0,,660.0
 2018,7.8,Fiji,,,
-2018,,Iran,1.0,,2.0
+2018,,Iran (Islamic Republic of),1.0,,2.0
 2018,5.6,China,,,28.0
 2018,5.3,India,1.0,,
 2018,7.5,Indonesia,4340.0,667.0,10679.0
@@ -498,9 +498,9 @@ Year,Magnitude,Country_Name,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2018,6.5,New Caledonia,,,
 2018,6.8,Greece,,,3.0
 2018,5.6,Indonesia,7.0,,
-2018,6.3,Iran,1.0,,759.0
+2018,6.3,Iran (Islamic Republic of),1.0,,759.0
 2018,4.9,Afghanistan,,,9.0
-2018,7.0,Usa,,,117.0
+2018,7.0,United States of America,,,117.0
 2018,7.5,New Caledonia,,,
 2018,5.6,Vanuatu,,,
 2018,5.4,China,,,17.0

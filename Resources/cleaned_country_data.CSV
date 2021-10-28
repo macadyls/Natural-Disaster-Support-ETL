@@ -1,247 +1,247 @@
-Country_Abbreviation,Country_ID,Developed_Or_Developing,Country_Name
-DZA,12,Developing,Algeria
-EGY,818,Developing,Egypt
-LBY,434,Developing,Libya
-MAR,504,Developing,Morocco
-SDN,729,Developing,Sudan
-TUN,788,Developing,Tunisia
-ESH,732,Developing,Western Sahara
-IOT,86,Developing,British Indian Ocean Territory
-BDI,108,Developing,Burundi
-COM,174,Developing,Comoros
-DJI,262,Developing,Djibouti
-ERI,232,Developing,Eritrea
-ETH,231,Developing,Ethiopia
-ATF,260,Developing,French Southern Territories
-KEN,404,Developing,Kenya
-MDG,450,Developing,Madagascar
-MWI,454,Developing,Malawi
-MUS,480,Developing,Mauritius
-MYT,175,Developing,Mayotte
-MOZ,508,Developing,Mozambique
-REU,638,Developing,Réunion
-RWA,646,Developing,Rwanda
-SYC,690,Developing,Seychelles
-SOM,706,Developing,Somalia
-SSD,728,Developing,South Sudan
-UGA,800,Developing,Uganda
-TZA,834,Developing,United Republic of Tanzania
-ZMB,894,Developing,Zambia
-ZWE,716,Developing,Zimbabwe
-AGO,24,Developing,Angola
-CMR,120,Developing,Cameroon
-CAF,140,Developing,Central African Republic
-TCD,148,Developing,Chad
-COG,178,Developing,Congo
-COD,180,Developing,Democratic Republic of the Congo
-GNQ,226,Developing,Equatorial Guinea
-GAB,266,Developing,Gabon
-STP,678,Developing,Sao Tome and Principe
-BWA,72,Developing,Botswana
-SWZ,748,Developing,Eswatini
-LSO,426,Developing,Lesotho
-NAM,516,Developing,Namibia
-ZAF,710,Developing,South Africa
-BEN,204,Developing,Benin
-BFA,854,Developing,Burkina Faso
-CPV,132,Developing,Cabo Verde
-CIV,384,Developing,Côte d’Ivoire
-GMB,270,Developing,Gambia
-GHA,288,Developing,Ghana
-GIN,324,Developing,Guinea
-GNB,624,Developing,Guinea-Bissau
-LBR,430,Developing,Liberia
-MLI,466,Developing,Mali
-MRT,478,Developing,Mauritania
-NER,562,Developing,Niger
-NGA,566,Developing,Nigeria
-SHN,654,Developing,Saint Helena
-SEN,686,Developing,Senegal
-SLE,694,Developing,Sierra Leone
-TGO,768,Developing,Togo
-AIA,660,Developing,Anguilla
-ATG,28,Developing,Antigua and Barbuda
-ABW,533,Developing,Aruba
-BHS,44,Developing,Bahamas
-BRB,52,Developing,Barbados
-VGB,92,Developing,British Virgin Islands
-CYM,136,Developing,Cayman Islands
-CUB,192,Developing,Cuba
-CUW,531,Developing,Curaçao
-DMA,212,Developing,Dominica
-DOM,214,Developing,Dominican Republic
-GRD,308,Developing,Grenada
-GLP,312,Developing,Guadeloupe
-HTI,332,Developing,Haiti
-JAM,388,Developing,Jamaica
-MTQ,474,Developing,Martinique
-MSR,500,Developing,Montserrat
-PRI,630,Developing,Puerto Rico
-BLM,652,Developing,Saint Barthélemy
-KNA,659,Developing,Saint Kitts and Nevis
-LCA,662,Developing,Saint Lucia
-MAF,663,Developing,Saint Martin (French Part)
-VCT,670,Developing,Saint Vincent and the Grenadines
-SXM,534,Developing,Sint Maarten (Dutch part)
-TTO,780,Developing,Trinidad and Tobago
-TCA,796,Developing,Turks and Caicos Islands
-VIR,850,Developing,United States Virgin Islands
-BLZ,84,Developing,Belize
-CRI,188,Developing,Costa Rica
-SLV,222,Developing,El Salvador
-GTM,320,Developing,Guatemala
-HND,340,Developing,Honduras
-MEX,484,Developing,Mexico
-NIC,558,Developing,Nicaragua
-PAN,591,Developing,Panama
-ARG,32,Developing,Argentina
-BOL,68,Developing,Bolivia (Plurinational State of)
-BVT,74,Developing,Bouvet Island
-BRA,76,Developing,Brazil
-CHL,152,Developing,Chile
-COL,170,Developing,Colombia
-ECU,218,Developing,Ecuador
-FLK,238,Developing,Falkland Islands (Malvinas)
-GUF,254,Developing,French Guiana
-GUY,328,Developing,Guyana
-PRY,600,Developing,Paraguay
-PER,604,Developing,Peru
-SGS,239,Developing,South Georgia and the South Sandwich Islands
-SUR,740,Developing,Suriname
-URY,858,Developing,Uruguay
-VEN,862,Developing,Venezuela (Bolivarian Republic of)
-BMU,60,Developed,Bermuda
-CAN,124,Developed,Canada
-GRL,304,Developed,Greenland
-SPM,666,Developed,Saint Pierre and Miquelon
-USA,840,Developed,United States of America
-ATA,10,,Antarctica
-KAZ,398,Developing,Kazakhstan
-KGZ,417,Developing,Kyrgyzstan
-TJK,762,Developing,Tajikistan
-TKM,795,Developing,Turkmenistan
-UZB,860,Developing,Uzbekistan
-CHN,156,Developing,China
-PRK,408,Developing,Democratic People's Republic of Korea
-JPN,392,Developed,Japan
-MNG,496,Developing,Mongolia
-KOR,410,Developing,Republic of Korea
-BRN,96,Developing,Brunei Darussalam
-KHM,116,Developing,Cambodia
-IDN,360,Developing,Indonesia
-LAO,418,Developing,Lao People's Democratic Republic
-MYS,458,Developing,Malaysia
-MMR,104,Developing,Myanmar
-PHL,608,Developing,Philippines
-SGP,702,Developing,Singapore
-THA,764,Developing,Thailand
-TLS,626,Developing,Timor-Leste
-VNM,704,Developing,Viet Nam
-AFG,4,Developing,Afghanistan
-BGD,50,Developing,Bangladesh
-BTN,64,Developing,Bhutan
-IND,356,Developing,India
-IRN,364,Developing,Iran (Islamic Republic of)
-MDV,462,Developing,Maldives
-NPL,524,Developing,Nepal
-PAK,586,Developing,Pakistan
-LKA,144,Developing,Sri Lanka
-ARM,51,Developing,Armenia
-AZE,31,Developing,Azerbaijan
-BHR,48,Developing,Bahrain
-CYP,196,Developed,Cyprus
-GEO,268,Developing,Georgia
-IRQ,368,Developing,Iraq
-ISR,376,Developed,Israel
-JOR,400,Developing,Jordan
-KWT,414,Developing,Kuwait
-LBN,422,Developing,Lebanon
-OMN,512,Developing,Oman
-QAT,634,Developing,Qatar
-SAU,682,Developing,Saudi Arabia
-PSE,275,Developing,State of Palestine
-SYR,760,Developing,Syrian Arab Republic
-TUR,792,Developing,Turkey
-ARE,784,Developing,United Arab Emirates
-YEM,887,Developing,Yemen
-BLR,112,Developed,Belarus
-BGR,100,Developed,Bulgaria
-CZE,203,Developed,Czechia
-HUN,348,Developed,Hungary
-POL,616,Developed,Poland
-MDA,498,Developed,Republic of Moldova
-ROU,642,Developed,Romania
-RUS,643,Developed,Russian Federation
-SVK,703,Developed,Slovakia
-UKR,804,Developed,Ukraine
-ALA,248,Developed,Åland Islands
-GGY,831,Developed,Guernsey
-JEY,832,Developed,Jersey
-,680,Developed,Sark
-DNK,208,Developed,Denmark
-EST,233,Developed,Estonia
-FRO,234,Developed,Faroe Islands
-FIN,246,Developed,Finland
-ISL,352,Developed,Iceland
-IRL,372,Developed,Ireland
-IMN,833,Developed,Isle of Man
-LVA,428,Developed,Latvia
-LTU,440,Developed,Lithuania
-NOR,578,Developed,Norway
-SJM,744,Developed,Svalbard and Jan Mayen Islands
-SWE,752,Developed,Sweden
-GBR,826,Developed,United Kingdom of Great Britain and Northern Ireland
-ALB,8,Developed,Albania
-AND,20,Developed,Andorra
-BIH,70,Developed,Bosnia and Herzegovina
-HRV,191,Developed,Croatia
-GIB,292,Developed,Gibraltar
-GRC,300,Developed,Greece
-VAT,336,Developed,Holy See
-ITA,380,Developed,Italy
-MLT,470,Developed,Malta
-MNE,499,Developed,Montenegro
-MKD,807,Developed,North Macedonia
-PRT,620,Developed,Portugal
-SMR,674,Developed,San Marino
-SRB,688,Developed,Serbia
-SVN,705,Developed,Slovenia
-ESP,724,Developed,Spain
-AUT,40,Developed,Austria
-BEL,56,Developed,Belgium
-FRA,250,Developed,France
-DEU,276,Developed,Germany
-LIE,438,Developed,Liechtenstein
-LUX,442,Developed,Luxembourg
-MCO,492,Developed,Monaco
-NLD,528,Developed,Netherlands
-CHE,756,Developed,Switzerland
-AUS,36,Developed,Australia
-CXR,162,Developed,Christmas Island
-CCK,166,Developed,Cocos (Keeling) Islands
-HMD,334,Developed,Heard Island and McDonald Islands
-NZL,554,Developed,New Zealand
-NFK,574,Developed,Norfolk Island
-FJI,242,Developing,Fiji
-NCL,540,Developing,New Caledonia
-PNG,598,Developing,Papua New Guinea
-SLB,90,Developing,Solomon Islands
-VUT,548,Developing,Vanuatu
-GUM,316,Developing,Guam
-KIR,296,Developing,Kiribati
-MHL,584,Developing,Marshall Islands
-FSM,583,Developing,Micronesia (Federated States of)
-NRU,520,Developing,Nauru
-MNP,580,Developing,Northern Mariana Islands
-PLW,585,Developing,Palau
-UMI,581,Developing,United States Minor Outlying Islands
-ASM,16,Developing,American Samoa
-COK,184,Developing,Cook Islands
-PYF,258,Developing,French Polynesia
-NIU,570,Developing,Niue
-PCN,612,Developing,Pitcairn
-WSM,882,Developing,Samoa
-TKL,772,Developing,Tokelau
-TON,776,Developing,Tonga
-TUV,798,Developing,Tuvalu
-WLF,876,Developing,Wallis and Futuna Islands
+Country_Abbreviation,Country_Name,Developed_Or_Developing,Country_ID
+DZA,Algeria,Developing,12
+EGY,Egypt,Developing,818
+LBY,Libya,Developing,434
+MAR,Morocco,Developing,504
+SDN,Sudan,Developing,729
+TUN,Tunisia,Developing,788
+ESH,Western Sahara,Developing,732
+IOT,British Indian Ocean Territory,Developing,86
+BDI,Burundi,Developing,108
+COM,Comoros,Developing,174
+DJI,Djibouti,Developing,262
+ERI,Eritrea,Developing,232
+ETH,Ethiopia,Developing,231
+ATF,French Southern Territories,Developing,260
+KEN,Kenya,Developing,404
+MDG,Madagascar,Developing,450
+MWI,Malawi,Developing,454
+MUS,Mauritius,Developing,480
+MYT,Mayotte,Developing,175
+MOZ,Mozambique,Developing,508
+REU,Réunion,Developing,638
+RWA,Rwanda,Developing,646
+SYC,Seychelles,Developing,690
+SOM,Somalia,Developing,706
+SSD,South Sudan,Developing,728
+UGA,Uganda,Developing,800
+TZA,United Republic of Tanzania,Developing,834
+ZMB,Zambia,Developing,894
+ZWE,Zimbabwe,Developing,716
+AGO,Angola,Developing,24
+CMR,Cameroon,Developing,120
+CAF,Central African Republic,Developing,140
+TCD,Chad,Developing,148
+COG,Congo,Developing,178
+COD,Democratic Republic of the Congo,Developing,180
+GNQ,Equatorial Guinea,Developing,226
+GAB,Gabon,Developing,266
+STP,Sao Tome and Principe,Developing,678
+BWA,Botswana,Developing,72
+SWZ,Eswatini,Developing,748
+LSO,Lesotho,Developing,426
+NAM,Namibia,Developing,516
+ZAF,South Africa,Developing,710
+BEN,Benin,Developing,204
+BFA,Burkina Faso,Developing,854
+CPV,Cabo Verde,Developing,132
+CIV,Côte d’Ivoire,Developing,384
+GMB,Gambia,Developing,270
+GHA,Ghana,Developing,288
+GIN,Guinea,Developing,324
+GNB,Guinea-Bissau,Developing,624
+LBR,Liberia,Developing,430
+MLI,Mali,Developing,466
+MRT,Mauritania,Developing,478
+NER,Niger,Developing,562
+NGA,Nigeria,Developing,566
+SHN,Saint Helena,Developing,654
+SEN,Senegal,Developing,686
+SLE,Sierra Leone,Developing,694
+TGO,Togo,Developing,768
+AIA,Anguilla,Developing,660
+ATG,Antigua and Barbuda,Developing,28
+ABW,Aruba,Developing,533
+BHS,Bahamas,Developing,44
+BRB,Barbados,Developing,52
+VGB,British Virgin Islands,Developing,92
+CYM,Cayman Islands,Developing,136
+CUB,Cuba,Developing,192
+CUW,Curaçao,Developing,531
+DMA,Dominica,Developing,212
+DOM,Dominican Republic,Developing,214
+GRD,Grenada,Developing,308
+GLP,Guadeloupe,Developing,312
+HTI,Haiti,Developing,332
+JAM,Jamaica,Developing,388
+MTQ,Martinique,Developing,474
+MSR,Montserrat,Developing,500
+PRI,Puerto Rico,Developing,630
+BLM,Saint Barthélemy,Developing,652
+KNA,Saint Kitts and Nevis,Developing,659
+LCA,Saint Lucia,Developing,662
+MAF,Saint Martin (French Part),Developing,663
+VCT,Saint Vincent and the Grenadines,Developing,670
+SXM,Sint Maarten (Dutch part),Developing,534
+TTO,Trinidad and Tobago,Developing,780
+TCA,Turks and Caicos Islands,Developing,796
+VIR,United States Virgin Islands,Developing,850
+BLZ,Belize,Developing,84
+CRI,Costa Rica,Developing,188
+SLV,El Salvador,Developing,222
+GTM,Guatemala,Developing,320
+HND,Honduras,Developing,340
+MEX,Mexico,Developing,484
+NIC,Nicaragua,Developing,558
+PAN,Panama,Developing,591
+ARG,Argentina,Developing,32
+BOL,Bolivia (Plurinational State of),Developing,68
+BVT,Bouvet Island,Developing,74
+BRA,Brazil,Developing,76
+CHL,Chile,Developing,152
+COL,Colombia,Developing,170
+ECU,Ecuador,Developing,218
+FLK,Falkland Islands (Malvinas),Developing,238
+GUF,French Guiana,Developing,254
+GUY,Guyana,Developing,328
+PRY,Paraguay,Developing,600
+PER,Peru,Developing,604
+SGS,South Georgia and the South Sandwich Islands,Developing,239
+SUR,Suriname,Developing,740
+URY,Uruguay,Developing,858
+VEN,Venezuela (Bolivarian Republic of),Developing,862
+BMU,Bermuda,Developed,60
+CAN,Canada,Developed,124
+GRL,Greenland,Developed,304
+SPM,Saint Pierre and Miquelon,Developed,666
+USA,United States of America,Developed,840
+ATA,Antarctica,,10
+KAZ,Kazakhstan,Developing,398
+KGZ,Kyrgyzstan,Developing,417
+TJK,Tajikistan,Developing,762
+TKM,Turkmenistan,Developing,795
+UZB,Uzbekistan,Developing,860
+CHN,China,Developing,156
+PRK,Democratic People's Republic of Korea,Developing,408
+JPN,Japan,Developed,392
+MNG,Mongolia,Developing,496
+KOR,Republic of Korea,Developing,410
+BRN,Brunei Darussalam,Developing,96
+KHM,Cambodia,Developing,116
+IDN,Indonesia,Developing,360
+LAO,Lao People's Democratic Republic,Developing,418
+MYS,Malaysia,Developing,458
+MMR,Myanmar,Developing,104
+PHL,Philippines,Developing,608
+SGP,Singapore,Developing,702
+THA,Thailand,Developing,764
+TLS,Timor-Leste,Developing,626
+VNM,Viet Nam,Developing,704
+AFG,Afghanistan,Developing,4
+BGD,Bangladesh,Developing,50
+BTN,Bhutan,Developing,64
+IND,India,Developing,356
+IRN,Iran (Islamic Republic of),Developing,364
+MDV,Maldives,Developing,462
+NPL,Nepal,Developing,524
+PAK,Pakistan,Developing,586
+LKA,Sri Lanka,Developing,144
+ARM,Armenia,Developing,51
+AZE,Azerbaijan,Developing,31
+BHR,Bahrain,Developing,48
+CYP,Cyprus,Developed,196
+GEO,Georgia,Developing,268
+IRQ,Iraq,Developing,368
+ISR,Israel,Developed,376
+JOR,Jordan,Developing,400
+KWT,Kuwait,Developing,414
+LBN,Lebanon,Developing,422
+OMN,Oman,Developing,512
+QAT,Qatar,Developing,634
+SAU,Saudi Arabia,Developing,682
+PSE,State of Palestine,Developing,275
+SYR,Syrian Arab Republic,Developing,760
+TUR,Turkey,Developing,792
+ARE,United Arab Emirates,Developing,784
+YEM,Yemen,Developing,887
+BLR,Belarus,Developed,112
+BGR,Bulgaria,Developed,100
+CZE,Czechia,Developed,203
+HUN,Hungary,Developed,348
+POL,Poland,Developed,616
+MDA,Republic of Moldova,Developed,498
+ROU,Romania,Developed,642
+RUS,Russian Federation,Developed,643
+SVK,Slovakia,Developed,703
+UKR,Ukraine,Developed,804
+ALA,Åland Islands,Developed,248
+GGY,Guernsey,Developed,831
+JEY,Jersey,Developed,832
+,Sark,Developed,680
+DNK,Denmark,Developed,208
+EST,Estonia,Developed,233
+FRO,Faroe Islands,Developed,234
+FIN,Finland,Developed,246
+ISL,Iceland,Developed,352
+IRL,Ireland,Developed,372
+IMN,Isle of Man,Developed,833
+LVA,Latvia,Developed,428
+LTU,Lithuania,Developed,440
+NOR,Norway,Developed,578
+SJM,Svalbard and Jan Mayen Islands,Developed,744
+SWE,Sweden,Developed,752
+GBR,United Kingdom of Great Britain and Northern Ireland,Developed,826
+ALB,Albania,Developed,8
+AND,Andorra,Developed,20
+BIH,Bosnia and Herzegovina,Developed,70
+HRV,Croatia,Developed,191
+GIB,Gibraltar,Developed,292
+GRC,Greece,Developed,300
+VAT,Holy See,Developed,336
+ITA,Italy,Developed,380
+MLT,Malta,Developed,470
+MNE,Montenegro,Developed,499
+MKD,North Macedonia,Developed,807
+PRT,Portugal,Developed,620
+SMR,San Marino,Developed,674
+SRB,Serbia,Developed,688
+SVN,Slovenia,Developed,705
+ESP,Spain,Developed,724
+AUT,Austria,Developed,40
+BEL,Belgium,Developed,56
+FRA,France,Developed,250
+DEU,Germany,Developed,276
+LIE,Liechtenstein,Developed,438
+LUX,Luxembourg,Developed,442
+MCO,Monaco,Developed,492
+NLD,Netherlands,Developed,528
+CHE,Switzerland,Developed,756
+AUS,Australia,Developed,36
+CXR,Christmas Island,Developed,162
+CCK,Cocos (Keeling) Islands,Developed,166
+HMD,Heard Island and McDonald Islands,Developed,334
+NZL,New Zealand,Developed,554
+NFK,Norfolk Island,Developed,574
+FJI,Fiji,Developing,242
+NCL,New Caledonia,Developing,540
+PNG,Papua New Guinea,Developing,598
+SLB,Solomon Islands,Developing,90
+VUT,Vanuatu,Developing,548
+GUM,Guam,Developing,316
+KIR,Kiribati,Developing,296
+MHL,Marshall Islands,Developing,584
+FSM,Micronesia (Federated States of),Developing,583
+NRU,Nauru,Developing,520
+MNP,Northern Mariana Islands,Developing,580
+PLW,Palau,Developing,585
+UMI,United States Minor Outlying Islands,Developing,581
+ASM,American Samoa,Developing,16
+COK,Cook Islands,Developing,184
+PYF,French Polynesia,Developing,258
+NIU,Niue,Developing,570
+PCN,Pitcairn,Developing,612
+WSM,Samoa,Developing,882
+TKL,Tokelau,Developing,772
+TON,Tonga,Developing,776
+TUV,Tuvalu,Developing,798
+WLF,Wallis and Futuna Islands,Developing,876
