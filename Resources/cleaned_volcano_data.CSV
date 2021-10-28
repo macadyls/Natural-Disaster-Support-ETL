@@ -2,7 +2,7 @@ Year,Country_Name,Elevation,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2010,Ecuador,5023,,,
 2010,Iceland,1666,2.0,,
 2010,Guatemala,2552,1.0,3.0,
-2010,United States,538,,,
+2010,United States of America,538,,,
 2010,Indonesia,1784,4.0,,5.0
 2010,Indonesia,2460,2.0,,
 2010,Indonesia,2947,367.0,,277.0
@@ -18,9 +18,9 @@ Year,Country_Name,Elevation,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2011,Iceland,1512,,,
 2011,Indonesia,1580,1.0,,
 2011,Indonesia,1715,4.0,,
-2012,United States,1222,,,
-2012,United States,1222,,,
-2012,Russia,3682,,,
+2012,United States of America,1222,,,
+2012,United States of America,1222,,,
+2012,Russian Federation,3682,,,
 2013,Indonesia,2947,1.0,,1.0
 2013,Indonesia,875,,,
 2013,Philippines,2462,5.0,,8.0
@@ -32,8 +32,8 @@ Year,Country_Name,Elevation,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2014,Indonesia,2460,17.0,,3.0
 2014,Indonesia,1731,7.0,,
 2014,Japan,3063,55.0,,70.0
-2014,United States,1222,,,
-2014,Cape Verde,2829,,,
+2014,United States of America,1222,,,
+2014,Cabo Verde,2829,,,
 2014,Indonesia,1715,1.0,,4.0
 2015,Indonesia,2460,,,
 2015,Chile,2003,,,
@@ -43,7 +43,7 @@ Year,Country_Name,Elevation,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2015,New Zealand,1111,1.0,,
 2016,Indonesia,2460,1.0,,4.0
 2016,Indonesia,2460,7.0,,3.0
-2016,United States,2805,1.0,,
+2016,United States of America,2805,1.0,,
 2016,Indonesia,3726,,44.0,
 2016,Japan,1592,,,
 2017,Italy,3350,,,10.0
@@ -57,8 +57,8 @@ Year,Country_Name,Elevation,Total_Deaths,Total_Missing_Persons,Total_Injuries
 2018,Papua New Guinea,365,,,
 2018,Philippines,2462,,,1972.0
 2018,Japan,2176,1.0,,11.0
-2018,United States,1222,1.0,,3.0
+2018,United States of America,1222,1.0,,3.0
 2018,Papua New Guinea,365,,,
 2018,Indonesia,2799,,,30.0
-2018,United States,1222,,,
+2018,United States of America,1222,,,
 2018,Vanuatu,1496,4.0,,
