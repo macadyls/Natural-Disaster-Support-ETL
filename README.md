@@ -15,3 +15,6 @@ To establish the database, run the follow this procedure:
 5. Take note of your postgreSQL password and the port the database in running on (5432 in most cases)
 6. Launch Transform2_load.ipynb and alter the last database connection section at the bottom according to your "password", port (5432 default) and database name (countries_db).
 7. Run Transform2_load.ipynb to load the relevant data into the database.
+
+
+Please refer to the technical_report.pdf for more information.
