@@ -1,73 +1,4 @@
 Year,Country_Name,Cause,Total_Deaths
-2010,Solomon Islands,Earthquake,
-2010,Solomon Islands,Earthquake,
-2010,Solomon Islands,Earthquake,
-2010,Haiti,Earthquake and Landslide,Very Many (~1001 or more people)
-2010,Chile,Earthquake,Many (~101 to 1000 people)
-2010,Indonesia,Earthquake,
-2010,Chile,Earthquake,
-2010,Japan,Earthquake,
-2010,Peru,Landslide,Few (~1 to 50 people)
-2010,United States of America,Volcano,
-2010,India,Earthquake,
-2010,Vanuatu,Earthquake,
-2010,United States of America,Earthquake,
-2010,Indonesia,Earthquake,Many (~101 to 1000 people)
-2010,Japan,Earthquake,
-2010,Vanuatu,Earthquake,
-2011,New Zealand,Earthquake and Landslide,
-2011,Chile,Earthquake,
-2011,Japan,Earthquake,
-2011,Japan,Earthquake,Very Many (~1001 or more people)
-2011,Vanuatu,Earthquake,
-2011,Japan,Earthquake,
-2011,United States of America,Earthquake,
-2011,New Zealand,Earthquake,
-2011,United Kingdom of Great Britain and Northern Ireland,Meteorological,
-2011,Norway,Landslide,
-2011,Japan,Earthquake,Few (~1 to 50 people)
-2011,Norway,Landslide,
-2011,Vanuatu,Earthquake,
-2011,Vanuatu,Earthquake,
-2011,United States of America,Earthquake,
-2011,New Zealand,Earthquake,
-2012,Mexico,Earthquake,Few (~1 to 50 people)
-2012,Japan,Earthquake,
-2012,Indonesia,Earthquake,Few (~1 to 50 people)
-2012,Indonesia,Earthquake,
-2012,Vanuatu,Earthquake,
-2010,Cook Islands,Unknown,
-2012,Vanuatu,Earthquake,
-2012,El Salvador,Earthquake,
-2012,Philippines,Earthquake,Few (~1 to 50 people)
-2012,Costa Rica,Earthquake,Few (~1 to 50 people)
-2012,Greenland,Landslide,
-2012,Guatemala,Earthquake,Some (~51 to 100 people)
-2012,China,Landslide,
-2012,Japan,Earthquake,
-2012,Canada,Earthquake,Few (~1 to 50 people)
-2013,United States of America,Earthquake,
-2013,Solomon Islands,Earthquake,
-2013,Solomon Islands,Earthquake,Few (~1 to 50 people)
-2013,Russian Federation,Earthquake,
-2013,New Zealand,Earthquake,
-2013,New Zealand,Earthquake,
-2013,Pakistan,Earthquake and Landslide,Many (~101 to 1000 people)
-2013,Japan,Earthquake,
-2013,Antarctica,Earthquake,
-2014,Chile,Earthquake,
-2014,Papua New Guinea,Earthquake,
-2014,Solomon Islands,Earthquake,
-2014,Mexico,Earthquake,
-2014,Chile,Earthquake,
-2014,Solomon Islands,Earthquake,
-2014,Chile,Earthquake,Few (~1 to 50 people)
-2014,United States of America,Earthquake,
-2014,New Zealand,Earthquake,
-2014,Japan,Earthquake,
-2014,United States of America,Earthquake,
-2014,Chile,Earthquake,
-2014,Indonesia,Earthquake,
 2015,Japan,Earthquake,
 2015,Papua New Guinea,Earthquake,
 2015,Vanuatu,Earthquake,
@@ -86,7 +17,6 @@ Year,Country_Name,Cause,Total_Deaths
 2016,Vanuatu,Earthquake,
 2016,United Kingdom of Great Britain and Northern Ireland,Earthquake,
 2016,New Caledonia,Earthquake,
-2014,El Salvador,Earthquake,Few (~1 to 50 people)
 2016,New Zealand,Earthquake,Few (~1 to 50 people)
 2016,New Zealand,Earthquake,
 2016,Nicaragua,Earthquake,
@@ -118,7 +48,6 @@ Year,Country_Name,Cause,Total_Deaths
 2018,Peru,Earthquake,
 2018,United States of America,Volcano and Earthquake,
 2018,Indonesia,Earthquake,Many (~101 to 1000 people)
-2014,Ukraine,Landslide,
 2018,Greece,Earthquake,
 2018,Fiji,Earthquake,
 2018,Venezuela (Bolivarian Republic of),Earthquake,Few (~1 to 50 people)
@@ -127,13 +56,9 @@ Year,Country_Name,Cause,Total_Deaths
 2018,New Caledonia,Earthquake,
 2018,Indonesia,Volcano and Landslide,Many (~101 to 1000 people)
 2015,China,Landslide,Few (~1 to 50 people)
-2012,Vanuatu,Earthquake,
-2011,New Caledonia,Earthquake,
 2015,Solomon Islands,Earthquake,
 2017,New Caledonia,Earthquake,
 2017,New Caledonia,Earthquake,
 2018,New Caledonia,Earthquake,
 2018,Russian Federation,Landslide,
-2014,Iceland,Landslide,
 2016,Japan,Earthquake,
-2013,Mexico,Earthquake,

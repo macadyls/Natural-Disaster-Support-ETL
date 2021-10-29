@@ -16,9 +16,7 @@ CREATE TABLE "world_happiness" (
     Score_2017 VARCHAR,
     Rank_2018 VARCHAR,
     Score_2018 VARCHAR,
-    Rank_2019 VARCHAR,
-    Score_2019 VARCHAR,
-	FOREIGN KEY (Country_ID) REFERENCES country(Country_ID)
+    FOREIGN KEY (Country_ID) REFERENCES country(Country_ID)
 );
 
 CREATE TABLE "tsunami" (
