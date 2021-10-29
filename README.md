@@ -4,7 +4,7 @@ Group members: Dylan, Nga, Nasrin, Franco
 
 We are the natural disaster support team and are helping clients who have recently been affected by natural disasters to relocate. We are providing data-driven advice to clients about the countries with the least natural disasters and their respective world happiness score and index.
 
-The ETL process was conducted using python in jupyter notebooks for the extraction and transformation, and PostgreSQL to load into the database via sqlalchemy in the notebook itself.
+The ETL process was conducted using python in jupyter notebooks for the extraction and transformation, and PostgreSQL to load into the relational database via sqlalchemy in the notebook itself.
 
 To establish the database, run the follow this procedure:
 
