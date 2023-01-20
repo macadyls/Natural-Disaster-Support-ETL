@@ -1,6 +1,6 @@
 # Natural-Disaster-Support-ETL
 
-<img width="100" heighth="100" alt="Logo " src="(https://user-images.githubusercontent.com/85002751/213645631-bce014a2-8eed-4d84-ae93-fedaa6227ee7.jpg")>
+<img width="100" heighth="100" alt="Logo " src="https://user-images.githubusercontent.com/85002751/213645631-bce014a2-8eed-4d84-ae93-fedaa6227ee7.jpg">
 
 We are the natural disaster support team and are helping clients who have recently been affected by natural disasters to relocate. 
 We are providing data-driven advice to clients about the countries with the least natural disasters and their respective world happiness score and index.
