@@ -30,6 +30,11 @@ The natural disaster and world happiness score were obtained from Kaggle:
 
 We also used the list of country names from the [United Nations Statistics Division](https://unstats.un.org/unsd/methodology/m49/overview/) to standardise country names.
 
+Combined, they provided the following information:
+- Total deaths, injuries and missing persons per natural disaster
+- Country happiness score and rank accoridng to the world happiness index by year
+- Whether the country is developing or developed
+
 ## Establishing the database via PostgreSQL
 
 To establish the database, run the follow this procedure:
