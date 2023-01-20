@@ -1,11 +1,18 @@
 # Natural-Disaster-Support-ETL
 
-Group members: Dylan, Nga, Nasrin, Franco
+<img width="100" heighth="100" alt="Logo " src="(https://user-images.githubusercontent.com/85002751/213645631-bce014a2-8eed-4d84-ae93-fedaa6227ee7.jpg">
 
 We are the natural disaster support team and are helping clients who have recently been affected by natural disasters to relocate. 
 We are providing data-driven advice to clients about the countries with the least natural disasters and their respective world happiness score and index.
 
 The ETL process was conducted using python in jupyter notebooks for the extraction and transformation, and PostgreSQL to load into the relational database via sqlalchemy in the notebook itself.
+
+## Team Members  👨🏻‍💻👩🏻‍💻👩🏻‍💻👩🏻‍💻
+
+- [Dylan McKibbin](https://github.com/macadyls)
+- [Nasrin Deghan](https://github.com/DehghanNasrin)
+- [Nga Phu](https://github.com/nkphu)
+- [Franco Hung](https://github.com/Franco1230)
 
 To establish the database, run the follow this procedure:
 
