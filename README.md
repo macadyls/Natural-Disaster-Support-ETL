@@ -1,4 +1,4 @@
-# Project-2-ETL
+# Natural-Disaster-Support-ETL
 
 Group members: Dylan, Nga, Nasrin, Franco
 
